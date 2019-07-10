@@ -1,0 +1,9 @@
+Dear ${PERSON_NAME}, 
+
+This is a test message. 
+Have a great week! 
+
+HI I AM SENDING THIS FROM A PYTHON FILE YEA HOPE IT WORKS YEA OKAY SEE YOU 
+
+Yours Truly
+PYYPYPYPYPYPPYPYPYPPYPYPYPY
